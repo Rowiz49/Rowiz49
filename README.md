@@ -15,5 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rowiz49&show_icons=true&locale=en&layout=compact" alt="rowiz49" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowiz49&show_icons=true&locale=en" alt="rowiz49" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowiz49&rank_icon=percentile&show_icons=true&locale=en" alt="rowiz49" /></p>
 <p><a href="https://ko-fi.com/rowiz49"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rowiz49" /></a></p><br><br>
