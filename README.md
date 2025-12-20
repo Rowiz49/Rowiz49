@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student engineering student at Universidad Politécnica de Madrid<br>President of the Core Dumped student's association<br>
+A student engineering student at Universidad Politécnica de Madrid<br>
 
 
 ## 🌐 Socials:
