@@ -17,4 +17,4 @@ I make small FoundryVTT modules and I've collaborated extensively with the Core 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/rowiz49"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rowiz49" /></a></p><br><br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowiz49&show_icons=true&locale=en" alt="rowiz49" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rowiz49&show_icons=true&theme=dark&locale=en" alt="rowiz49" /></p>
