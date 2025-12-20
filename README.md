@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rowiz49</h1>
 <h3 align="center">A software engineering student at Universidad Politécnica de Madrid</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rowiz49&label=Profile%20views&color=0e75b6&style=flat" alt="rowiz49" /> </p>
 
 <h3 align="left">About me:</h3>
 I make small FoundryVTT modules and I've collaborated extensively with the Core Dumped student association.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rowiz49&label=Profile%20views&color=0e75b6&style=flat" alt="rowiz49" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
